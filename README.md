@@ -13,7 +13,7 @@
 A sample portfolio project 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://github.com/TarrMarr/personal_portfolio/blob/master/screenshot.JPG)
 
 ## Technologies
 * HTML5
